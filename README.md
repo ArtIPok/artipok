@@ -51,6 +51,23 @@ In my free time, I love to indulge in reading, particularly gravitating towards 
     -   **Manager**: [WildEvent-manager](https://github.com/ArtIPok/WildEvent-manager.git)
     -   **Client**: [WildEvent-client](https://github.com/ArtIPok/WildEvent-client.git)
 
+### QuizzApp
+
+- 📝 **Description**: 
+  - **QuizzApp**: An interactive quiz application offering a wide range of quizzes across diverse subjects and categories. It allows users to engage with quizzes without the need for signing up. Registered users, however, have access to added functionalities like creating their own quizzes and viewing statistics.
+
+  - **For All Users**:
+    - Engage in any quiz without the need for registration.
+    - An intuitive interface for easy navigation through various quiz categories.
+
+  - **For Registered Users**:
+    - Capability to create personal quizzes.
+    - Access and review personal quiz statistics.
+
+- 🛠️ **Technologies Used**: MERN stack (MongoDB, Express, React, Node.js)
+
+- 📁 **GitHub Repository**: [QuizzApp Repository](https://github.com/ArtIPok/QizzApp.git)
+
 ## 📚 Hobbies & Interests:
 
 - 📖 Reading: Huge fan of fantasy and thriller genres.
