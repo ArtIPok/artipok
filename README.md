@@ -47,7 +47,7 @@ In my free time, I love to indulge in reading, particularly gravitating towards 
 - 🤝 Team Collaboration: Thrive in collaborative settings, valuing clear communication and shared goals.
 
 ## 📫 How to reach me:
-Feel free to connect with me [here on GitHub](https://github.com/NazwaUzytkownika) or drop me a message. I'm always open to collaboration, new projects, or just a friendly chat!
+Feel free to connect with me [here on GitHub](https://github.com/artipok) or drop me a message. I'm always open to collaboration, new projects, or just a friendly chat!
 
 ---
 
