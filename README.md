@@ -27,17 +27,24 @@ In my free time, I love to indulge in reading, particularly gravitating towards 
 
 ## 🌐 Portfolio:
 
-### [Nazwa Projektu 1]
-- 📝 **Description**: Krótki opis projektu. Np. Strona internetowa dla klienta z branży X, oferująca Y.
-- 🛠️ **Technologies Used**: JAVA, React, MySQL...
-- 🔗 **Live Link**: [Kliknij tutaj](link_do_strony) | [Repozytorium na GitHub](link_do_repo)
+### WildEvent
+- 📝 **Description**: 
+  - **WildEvent**: A dynamic event management solution crafted to provide an immersive experience for both event attendees and organizers. Designed to adapt to a wide range of venues, this tool integrates cutting-edge map interactivity, real-time event details, and an intuitive dashboard for organizers. 
 
-### [Nazwa Projektu 2]
-- 📝 **Description**: Opis...
-- 🛠️ **Technologies Used**: ...
-- 🔗 **Live Link**: [Kliknij tutaj](link_do_strony) | [Repozytorium na GitHub](link_do_repo)
+  - **For Attendees**:
+    - Engage with rich, interactive maps to navigate diverse locations seamlessly.
+    - Access in-depth event details, ensuring you never miss out.
+    - Experience a blend of aesthetics and functionality, thanks to Bootstrap and Material UI integrations.
 
-... (i tak dalej dla innych projektów)
+  - **For Organizers**:
+    - Effortlessly manage and update event particulars with a user-friendly backend interface, powered by JAVA and Spring.
+    - Enjoy real-time map and venue detailing, brought to life with JavaScript and React.
+    - Oversee team activities and streamline operations, ensuring smooth event execution.
+
+- 🛠️ **Technologies Used**: JAVA, Spring, JavaScript, React, Bootstrap, Material UI, HTML, CSS, Sass
+
+
+- 🔗 **Live Link**: [Kliknij tutaj](link_do_strony) | [Repozytorium na GitHub](https://github.com/ArtIPok/WildEwent-api.git)
 
 
 ## 📚 Hobbies & Interests:
