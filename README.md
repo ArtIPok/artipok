@@ -43,9 +43,13 @@ In my free time, I love to indulge in reading, particularly gravitating towards 
 
 - 🛠️ **Technologies Used**: JAVA, Spring, JavaScript, React, Bootstrap, Material UI, HTML, CSS, Sass
 
-
-- 🔗 **Live Link**: [Kliknij tutaj](link_do_strony) | [Repozytorium na GitHub](https://github.com/ArtIPok/WildEwent-api.git)
-
+- 🔗 **Live Link**: [Kliknij tutaj](link_do_strony) 
+   
+-   📁 **Repozytoria na GitHubie**:
+    
+    -   **API**: [WildEwent-api](https://github.com/ArtIPok/WildEwent-api.git)
+    -   **Manager**: [WildEvent-manager](https://github.com/ArtIPok/WildEvent-manager.git)
+    -   **Client**: [WildEvent-client](https://github.com/ArtIPok/WildEvent-client.git)
 
 ## 📚 Hobbies & Interests:
 
