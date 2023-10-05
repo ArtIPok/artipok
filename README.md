@@ -47,7 +47,7 @@ In my free time, I love to indulge in reading, particularly gravitating towards 
    
 -   📁 **Repozytoria na GitHubie**:
     
-    -   **API**: [WildEwent-api](https://github.com/ArtIPok/WildEwent-api.git)
+    -   **API**: [WildEwent-api](https://github.com/ArtIPok/WildEvent-api)
     -   **Manager**: [WildEvent-manager](https://github.com/ArtIPok/WildEvent-manager.git)
     -   **Client**: [WildEvent-client](https://github.com/ArtIPok/WildEvent-client.git)
 
