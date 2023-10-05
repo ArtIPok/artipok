@@ -54,7 +54,7 @@ In my free time, I love to indulge in reading, particularly gravitating towards 
 ### QuizzApp
 
 - 📝 **Description**: 
-  - **QuizzApp**: An interactive quiz application offering a wide range of quizzes across diverse subjects and categories. It allows users to engage with quizzes without the need for signing up. Registered users, however, have access to added functionalities like creating their own quizzes and viewing statistics.
+  - **QuizzApp**: The aim of this project is to create a user-friendly web application that enables users to take quizzes and contribute their own quiz content. Our goal is to provide an engaging and interactive platform for learning and knowledge-sharing, fostering a community of quiz enthusiasts. Whether you want to challenge your knowledge or share your expertise, our app makes it easy and enjoyable.
 
   - **For All Users**:
     - Engage in any quiz without the need for registration.
