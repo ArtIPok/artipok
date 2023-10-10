@@ -66,7 +66,7 @@ In my free time, I love to indulge in reading, particularly gravitating towards 
 
 - 🛠️ **Technologies Used**: MERN stack (MongoDB, Express, React, Node.js)
 
-- 📁 **GitHub Repository**: [QuizzApp Repository](https://github.com/ArtIPok/QizzApp.git)
+- 📁 **GitHub Repository**: [QuizzApp Repository](https://github.com/ArtIPok/QuizzApp)
 
 ## 📚 Hobbies & Interests:
 
